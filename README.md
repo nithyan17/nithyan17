@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nithya Natarajan</h1>
-<h3 align="center">A passionate Machine Learning Engineer and Team player valued for driving quality and consistency throughout all phases of software development projects.</h3>
+<h3 align="center">I am a developer who is passionate about stuff like machine learning and data science. Few tech that I enjoy working in are Python, C++, java, AWS. I am actively looking for opportunities in ML & Data Science.</h3>
 
 - 🔭 I’m currently working on **IoT Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine learning and Analytics**
+
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 🤝 I’m looking for help with **IoT and ML**
 
