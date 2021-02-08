@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithya Natarajan</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Team player valued for driving quality and consistency throughout all phases of software development projects.</h3>
 
-- 🔭 I’m currently working on **IoT**
+- 🔭 I’m currently working on **IoT Projects**
 
 - 🌱 I’m currently learning **Machine Learning**
 
